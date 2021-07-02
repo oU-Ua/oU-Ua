@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @oU-Ua
-- 👀 I’m interested in deep learning
+- 👀 I’m interested in Deep learning
 - 🌱 I’m currently learning python, tensorflow, react, HTML, CSS
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
