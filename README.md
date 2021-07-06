@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @oU-Ua
+- 👋 Hi, I’m Yu Yu jeong
 - 👀 I’m interested in Deep learning
 - 🌱 I’m currently learning python, tensorflow, react, HTML, CSS
 - 💞️ I’m looking to collaborate on ...
