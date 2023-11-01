@@ -1,5 +1,5 @@
 ### Hi there 👋
-![oU_Ua's github stats](https://github-readme-stats.vercel.app/api?username=아이디&show_icons=true)
+![oU-Ua's github stats](https://github-readme-stats.vercel.app/api?username=아이디&show_icons=true)
 <!--
 **oU-Ua/oU-Ua** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
