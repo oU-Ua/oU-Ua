@@ -66,28 +66,33 @@
 </div>
 
 <div align=center>
-	<h3>🏆 BOJ solved rank 🏆</h3>
- <a href="https://solved.ac/imuu"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=imuu" /></a>　
-	
+	<p>🏆 BOJ solved rank 🏆</p>
+	<a href="https://solved.ac/imuu"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=imuu" />
+ 	</a>
+	<br>
+	<br>
+	<br>
+	<br>
+	<br>
 </div>
 
+
+
 <div align="center">
-	<h3>🏆 my github stats 🏆</h3>
-  <img src="https://github-readme-stats.vercel.app/api?username=oU-Ua&show_icons=true" />
+	<p>🏆 my github stats 🏆</p>
+  <img src="https://github-readme-stats.vercel.app/api?username=oU-Ua&show_icons=true&theme=default&hide_border=true&bg_color=20232a&icon_color=f9f586&text_color=f9f586&title_color=96fbc4&count_private=true" />
 
  
   <br>
 
 
-  ![Taehyun's GitHub Contributor stats](https://github-contributor-stats.vercel.app/api?username=oU-Ua)
+  ![Taehyun's GitHub Contributor stats](https://github-contributor-stats.vercel.app/api?username=oU-Ua&show_icons=true&theme=default&hide_border=true&bg_color=20232a&icon_color=f9f586&text_color=f9f586&title_color=96fbc4&count_private=tru)
 
 
   <br>
   
   
-  <a href="https://github.com/oU-Ua/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=oU-Ua&theme=react-dark" />
-  </a>
+  [![UU_jeong's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=oU-Ua&bg_color=20232a&color=f9f586&title_color=96fbc4&line=f9f586&point=96fbc4)](https://github.com/ashutosh00710/github-readme-activity-graph)
 </div>
 
 
