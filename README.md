@@ -1,5 +1,10 @@
-### Hi there 👋
-![oU-Ua's github stats](https://github-readme-stats.vercel.app/api?username=oU-Ua&show_icons=true)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=8,2,0,0,12&height=250&text=UU's%20GitHub&fontAlign=50&fontAlignY=40&animation=fadeIn&desc=welcome%20my%20GitHub)
+Hi there 👋
+
+![oU-Ua's github stats](https://github-readme-stats.vercel.app/api?username=oU-Ua&show_icons=true&theme=yellow-green) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oU-Ua&layout=compact&custom_title=My&nbsp;Language&nbsp;)](https://github.com/anuraghazra/github-readme-stats)
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=8,2,0,0,12&height=150&section=footer)
 <!--
 **oU-Ua/oU-Ua** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
