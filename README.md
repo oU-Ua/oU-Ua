@@ -60,20 +60,35 @@
 	</a>
 	<br>
 	<br>
+	<br>
+	<br>
+	<br>
 </div>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=oU-Ua&show_icons=true" />　
-  <a href="https://solved.ac/imuu"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=imuu" /></a>　
-</p>
+<div align=center>
+	<h3>🏆 BOJ solved rank 🏆</h3>
+ <a href="https://solved.ac/imuu"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=imuu" /></a>　
+	
+</div>
 
-<p align="center">
+<div align="center">
+	<h3>🏆 my github stats 🏆</h3>
+  <img src="https://github-readme-stats.vercel.app/api?username=oU-Ua&show_icons=true" />
+
+ 
+  <br>
+
+
+  ![Taehyun's GitHub Contributor stats](https://github-contributor-stats.vercel.app/api?username=oU-Ua)
+
+
+  <br>
+  
+  
   <a href="https://github.com/oU-Ua/github-readme-activity-graph">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=oU-Ua&theme=react-dark" />
   </a>
-</p>
-
-![Taehyun's GitHub Contributor stats](https://github-contributor-stats.vercel.app/api?username=oU-Ua)
+</div>
 
 
 
