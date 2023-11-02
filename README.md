@@ -79,7 +79,7 @@
 
 
 <div align="center">
-	<p>🏆 my github stats 🏆</p>
+	<p>📌 my github stats 📌</p>
   <img src="https://github-readme-stats.vercel.app/api?username=oU-Ua&show_icons=true&theme=default&hide_border=true&bg_color=20232a&icon_color=f9f586&text_color=f9f586&title_color=96fbc4&count_private=true" />
 
  
