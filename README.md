@@ -54,8 +54,8 @@
 	<a href="mailto:imuu30071126@gamil.com">
 		<img src="https://img.shields.io/badge/Mail-EA4335?style=flat&logo=Gmail&logoColor=white" />
 	</a>
-	<a href="">
-		<img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white" />
+	<a href="https://www.miricanvas.com/v/12lfkjg">
+		<img src="https://img.shields.io/badge/PortFolio-F1007E?style=flat&logo=googleslides&logoColor=white" />
 	</a>
 	<br>
 	<br>
