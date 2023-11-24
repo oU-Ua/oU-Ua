@@ -63,7 +63,7 @@
 	<br>
 	<br>
 </div>
-
+<!--
 <div align=center>
 	<p>🏆 BOJ solved rank 🏆</p>
 	<a href="https://solved.ac/imuu"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=imuu" />
@@ -74,7 +74,7 @@
 	<br>
 	<br>
 </div>
-
+-->
 
 
 
