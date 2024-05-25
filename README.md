@@ -59,7 +59,6 @@
 		<img src="https://img.shields.io/badge/PortFolio-F1007E?style=flat&logo=googleslides&logoColor=white" />
 	</a>
 	-->
-	
 	<br>
 	<br>
 	<br>
