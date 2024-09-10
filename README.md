@@ -2,12 +2,12 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:96fbc4,100:f9f586&height=250&text=UU's%20GitHub&fontAlign=50&fontAlignY=40&animation=fadeIn&desc=welcome%20my%20GitHub)
 
-<p align="center"> 사용자를 위한 서비스를 추구하는 개발자, 유유정입니다. 👩‍💻</p>
+<!--<p align="center"> 사용자를 위한 서비스를 추구하는 개발자, 유유정입니다. 👩‍💻</p>-->
 
-<div align=center>
+<!--<div align=center>
 	
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Caveat&size=50&duration=3000&pause=1000&color=96fbc4&center=true&vCenter=true&repeat=false&random=false&width=800&height=100&lines=Hello%2C+I'm+Back-End+Developer+YU+JEONG+!)](https://git.io/typing-svg)
-</div>
+</div>-->
 
 <div align=center>
 	<h3>📚 Tech Stack 📚</h3>
